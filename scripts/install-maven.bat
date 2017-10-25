@@ -1,6 +1,6 @@
 @echo off
 
-set "PROGS_DIR=C:\Progs"
+set "PROGS_DIR=C:\Program Files"
 
 cd /d "%~dp0"
 set "CURRENT_DIR=%cd%"
