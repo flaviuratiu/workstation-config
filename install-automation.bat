@@ -13,8 +13,8 @@ pause
 
 echo  ================================================
 
-call scripts/install-notepad.bat
-cd /d "%~dp0"
+REM call scripts/install-notepad.bat
+REM cd /d "%~dp0"
 
 call scripts/install-java.bat
 cd /d "%~dp0"
